@@ -1,2 +1,2 @@
 # SoundReactiveRecordPlayer
- Final project for class MTEC2250-Fabrication for Physical Computing
+ Final project for class MTEC2250-Fabrication for Physical Computing.
